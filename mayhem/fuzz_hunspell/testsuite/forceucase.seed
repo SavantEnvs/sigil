@@ -1,0 +1,10 @@
+# force capitalized compound
+TRY F
+FORCEUCASE A
+COMPOUNDFLAG C
+
+===DIC===
+3
+foo/C
+bar/C
+baz/CA

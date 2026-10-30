@@ -1,0 +1,12 @@
+COMPOUNDRULE 1
+COMPOUNDRULE ab
+
+COMPOUNDBEGIN A
+COMPOUNDEND B
+
+
+===DIC===
+3
+foo/aA
+bar/b
+baz/B

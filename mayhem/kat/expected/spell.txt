@@ -1,0 +1,6 @@
+hello ok
+world ok
+helo wrong -> hello
+worlds ok
+wrold wrong -> world
+xyzzyq wrong ->

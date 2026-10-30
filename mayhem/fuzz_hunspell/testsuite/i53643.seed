@@ -1,0 +1,6 @@
+# check numbers with separators
+WORDCHARS 0123456789.-,
+
+===DIC===
+1
+foo

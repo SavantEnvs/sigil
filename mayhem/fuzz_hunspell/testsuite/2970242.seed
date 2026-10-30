@@ -1,0 +1,10 @@
+CHECKCOMPOUNDPATTERN 1
+CHECKCOMPOUNDPATTERN /a /b
+COMPOUNDFLAG c
+
+
+===DIC===
+3
+foo/ac
+bar/c
+baz/bc

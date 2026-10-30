@@ -1,0 +1,19 @@
+# homonym support
+WORDCHARS '
+
+SFX s N 1
+SFX s 0 s .
+
+SFX S N 1
+SFX S 0 's .
+
+
+
+===DIC===
+4
+UNESCO/S
+Unesco/S
+Nasa/S
+NASA/S
+ACTS
+act/s

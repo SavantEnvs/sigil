@@ -1,0 +1,23 @@
+# number + percent
+SET UTF-8
+COMPOUNDMIN 1
+COMPOUNDRULE 2
+COMPOUNDRULE N*%?
+COMPOUNDRULE NN*.NN*%?
+WORDCHARS 0123456789‰.
+
+===DIC===
+13
+0/N	po:num
+1/N	po:num
+2/N	po:num
+3/N	po:num
+4/N	po:num
+5/N	po:num
+6/N	po:num
+7/N	po:num
+8/N	po:num
+9/N	po:num
+./.	po:sign_dot
+%/%	po:sign_percent
+‰/%	po:sign_per_mille

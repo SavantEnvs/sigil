@@ -1,0 +1,1 @@
+(?(DEFINE)(?<n>\d+))(?&n)(*SKIP)(*FAIL)|\K.
