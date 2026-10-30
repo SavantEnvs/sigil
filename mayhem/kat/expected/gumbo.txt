@@ -1,0 +1,14 @@
+<html>
+  <head>
+  <body>
+    <p> class="a b" id="x"
+      #text "Hello "
+      <b>
+        #text "big"
+      #text " world"
+    <ul>
+      <li>
+        #text "one"
+      <li>
+        #text "two"
+    <br>

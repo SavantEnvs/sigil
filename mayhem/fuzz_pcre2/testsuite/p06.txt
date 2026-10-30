@@ -1,0 +1,2 @@
+(?#c)(?x) a b # comment
+\Qlit\E\g{-1}(?<=a|bc)
