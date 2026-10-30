@@ -1,0 +1,8 @@
+# check extended ascii
+CHECKCOMPOUNDCASE
+COMPOUNDFLAG A
+
+===DIC===
+2
+áoó/A
+Óoá/A

@@ -1,0 +1,11 @@
+# test words with three parts
+CHECKCOMPOUNDPATTERN 1
+CHECKCOMPOUNDPATTERN le fi
+COMPOUNDFLAG c
+
+
+===DIC===
+3
+first/c
+middle/c
+last/c

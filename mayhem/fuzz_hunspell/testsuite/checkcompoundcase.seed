@@ -1,0 +1,10 @@
+# forbid upper case letters at word bounds in compounding
+CHECKCOMPOUNDCASE
+COMPOUNDFLAG A
+
+===DIC===
+4
+foo/A
+Bar/A
+BAZ/A
+-/A

@@ -1,0 +1,2 @@
+.a{color:red;&:hover{color:blue}.b &{margin:0}@media (width>1px){padding:1px}}
+@supports (display:grid){.g{display:grid;grid-template-columns:repeat(2,1fr)}}

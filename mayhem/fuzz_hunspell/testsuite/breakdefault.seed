@@ -1,0 +1,14 @@
+# default word break at hyphens and n-dashes
+
+SET UTF-8
+MAXNGRAMSUGS 0
+WORDCHARS -
+TRY ot
+
+===DIC===
+3
+foo
+bar
+free
+scott
+scot-free

@@ -1,0 +1,8 @@
+# Forbid compound word with triple letters
+CHECKCOMPOUNDDUP
+COMPOUNDFLAG A
+
+===DIC===
+2
+foo/A
+bar/A

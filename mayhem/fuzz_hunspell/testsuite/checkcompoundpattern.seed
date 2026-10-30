@@ -1,0 +1,12 @@
+# forbid compounds with spec. pattern at word bounds
+COMPOUNDFLAG A
+CHECKCOMPOUNDPATTERN 2
+CHECKCOMPOUNDPATTERN nny ny
+CHECKCOMPOUNDPATTERN ssz sz
+
+===DIC===
+4
+könny/A
+nyelés/A
+hossz/A
+számítás/A

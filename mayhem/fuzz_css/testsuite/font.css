@@ -1,0 +1,3 @@
+@font-face{font-family:"X";src:url(a.woff2) format("woff2"),url(a.ttf);font-weight:400 700}
+@page :first{margin:1in}
+@namespace svg url(http://www.w3.org/2000/svg);

@@ -1,0 +1,4 @@
+entries=3
+mimetype size=20 method=0 crc=ok body=[application/epub+zip]
+META-INF/container.xml size=87 method=8 crc=ok body=[<container><rootfiles><rootfile full-path="OEBPS/content.opf"/></rootfiles></container>]
+OEBPS/chapter1.xhtml size=340 method=8 crc=ok body=[Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. Call me Ishmael. ]

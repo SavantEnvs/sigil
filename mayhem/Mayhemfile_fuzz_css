@@ -1,0 +1,10 @@
+project: savantenvs/sigil
+target: fuzz_css
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_css/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_css
+    libfuzzer: true
+    timeout: 30
+    dictionary: /mayhem/mayhem/fuzz_css/fuzz_css.dict
